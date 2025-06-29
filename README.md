@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me :
+- Email - krisisipri2009@gmail.com ;
 - ⚡ Fun fact: ...
 
 <!---

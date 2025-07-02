@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @krisiwebsitemaker1234
-- 👀 I’m interested in programming
-- 🌱 I’m currently a full stack Junior Web Developer
+- 🌱 I’m a full stack Junior Web Developer, working for QUOLYTECH
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me :
 - Email - krisisipri2009@gmail.com ;

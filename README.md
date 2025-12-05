@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krisiwebsitemaker1234
-- 🌱 I’m a full stack Junior Web Developer for QuolyTech - quolytech.com
+- 🌱 I’m a full stack Junior Web Developer for QuolyTech - https://quolytech.com
 - 📫 How to reach me :
 - Email - krisisipri2009@gmail.com ;
 - ⚡ Fun fact : I play drums 🥁
